@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cV25XyBVk+1kevL8iFVCT+PYljltHxl/5c4lzupoMGLWC+tERfBqPnyby63PdkT8CnBRoW1P+/EuNhV+9mJanQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mario\\source\\repos\\DemoQR\\DemoQR.iOS\\DemoQR.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mario\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\zxing.net.mobile\\2.4.1\\zxing.net.mobile.2.4.1.nupkg.sha512",
+    "C:\\Users\\Mario\\.nuget\\packages\\zxing.net.mobile.forms\\2.4.1\\zxing.net.mobile.forms.2.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

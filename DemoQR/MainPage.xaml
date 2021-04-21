@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+           
+             x:Class="DemoQR.MainPage"
+             Background="#51FA2A">
+    
+
+    <StackLayout>
+        
+
+        <Label Text="Lector de Código QR" FontSize="25"
+                   HorizontalOptions="Center"
+                   VerticalOptions="CenterAndExpand"/>
+        <Button x:Name="btnQR" Text="Leer QR" BackgroundColor="#E2FD1E" Clicked="btnQR_Clicked"/>
+        <Entry x:Name="txtResul" Placeholder="Resultado del QR"/>   
+
+    </StackLayout>
+
+</ContentPage>

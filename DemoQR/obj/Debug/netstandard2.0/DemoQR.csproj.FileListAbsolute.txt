@@ -1,0 +1,14 @@
+C:\Users\Mario\source\repos\DemoQR\DemoQR\bin\Debug\netstandard2.0\DemoQR.deps.json
+C:\Users\Mario\source\repos\DemoQR\DemoQR\bin\Debug\netstandard2.0\DemoQR.dll
+C:\Users\Mario\source\repos\DemoQR\DemoQR\bin\Debug\netstandard2.0\ref\DemoQR.dll
+C:\Users\Mario\source\repos\DemoQR\DemoQR\bin\Debug\netstandard2.0\DemoQR.pdb
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\DemoQR.csprojAssemblyReference.cache
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\DemoQR.AssemblyInfoInputs.cache
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\DemoQR.AssemblyInfo.cs
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\DemoQR.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\DemoQR.dll
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\ref\DemoQR.dll
+C:\Users\Mario\source\repos\DemoQR\DemoQR\obj\Debug\netstandard2.0\DemoQR.pdb
